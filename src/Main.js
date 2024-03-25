@@ -1,6 +1,6 @@
 import React from "react";
-import WeatherData from "./WeatherData";
-import Appforecast from "./Appforecast";
+import WeatherData from "./src/WeatherData";
+import Appforecast from "./src/Appforecast";
 
 export default function Main() {
   return (
